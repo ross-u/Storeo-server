@@ -5,7 +5,6 @@ It's built around clear design principles that make it modular, extendible, and 
 
 This repo is the back-end of the app, you can find the front-end [here](https://github.com/zain-ali-syed/Storeo_Frontend).
 
-![logo](Screenshots/logo.png)
 ![product detail](Screenshots/product.png)
 ![homepage](Screenshots/homepage.png)
 
